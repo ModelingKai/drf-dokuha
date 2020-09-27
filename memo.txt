@@ -3,6 +3,21 @@
 ### RESTful でGoodってなに？
 > Notice that we're using hyperlinked relations in this case with HyperlinkedModelSerializer. You can also use primary key and various other relationships, but hyperlinking is good RESTful design.
 
+### なぜか301(リダイレクトが返ってくる）
+
+curl -v でリダイレクトされていることがわかった
+curl -L を付けることで、リダイレクト先に再度リクエストを送ってみて、403になって返ってくる。
+
+なぜ、301が返ってくるのか
+
+#### リダイレクト
+
+users
+users/ の違い。
+
+[トレイリングスラッシュの有無とディレクトリについて \- Qiita](https://qiita.com/ktr1211/items/62d7c2ac254af7d7d2dd)
+
+### トレーリングスラッシュ
 
 ### 英単語
 
@@ -22,5 +37,4 @@ Because 〜ため
 useful 便利
 
 That's 指示代名詞
-
 
