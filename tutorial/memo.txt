@@ -1,0 +1,26 @@
+## 謎を書いておくコーナー
+
+### RESTful でGoodってなに？
+> Notice that we're using hyperlinked relations in this case with HyperlinkedModelSerializer. You can also use primary key and various other relationships, but hyperlinking is good RESTful design.
+
+
+### 英単語
+
+explicitly 明示的
+implicitly 暗黙的
+
+ex~ 外側
+in(m)~ 内側
+
+concise 簡潔 形容詞
+
+instead 代わりに
+
+
+Because 〜ため
+
+useful 便利
+
+That's 指示代名詞
+
+
