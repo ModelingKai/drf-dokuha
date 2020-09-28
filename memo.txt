@@ -44,19 +44,20 @@ useful 便利
 
 That's 指示代名詞
 
-Along　流れに沿って
+
+Along way 流れに沿って
 
 comprehensive 包括的な、理解力のある、わかりのよい
 
-fits together.　どのように組み合わせ
+fits together. どのように組み合わせ
 
-fairly かなり
+fairly かなり、公平
 
 in-depth 形容詞 より深く、細かく
 
 probably おそらく、多分
 
-head over こっちを見てね
+head over こっち
 
 make sure 確実に
 
@@ -65,6 +66,7 @@ ready to roll. 準備はいいか
 the first thing 最初なこと
 
 fully fledged 本格的
+fully fledged instaces 一人前インスタンス（完全なインスタンス的な）
 
 similar 似ている
 
@@ -72,3 +74,7 @@ certain 特定の
 
 circumstances 状況
 
+such as 〜な感じ、〜のような
+ 先に抽象的な話があって、その後に具体例として続ける
+
+that それはね
