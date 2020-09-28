@@ -17,7 +17,13 @@ users/ の違い。
 
 [トレイリングスラッシュの有無とディレクトリについて \- Qiita](https://qiita.com/ktr1211/items/62d7c2ac254af7d7d2dd)
 
-### トレーリングスラッシュ
+
+### HTMLのレンダーの話
+
+Serializerで、Styleを返すのはおかしいような気がしている。
+でもSerialzierは、JSONでもXMLでもHTMLでもいいのでは？？
+
+
 
 ### 英単語
 
@@ -55,3 +61,14 @@ head over こっちを見てね
 make sure 確実に
 
 ready to roll. 準備はいいか
+
+the first thing 最初なこと
+
+fully fledged 本格的
+
+similar 似ている
+
+certain 特定の
+
+circumstances 状況
+
