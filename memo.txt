@@ -84,3 +84,65 @@ inspect 検査、調べる 虫眼鏡で覗き見る感じ
 
 simply 単に
  - they are simply a shortcut for creating serializer classes
+
+how どうやって
+ - how we can write some API views
+   - howを使って、節を作っている。 how + S + V
+ - that
+ - if
+
+- won't = will not
+  - するつもりがない
+  For the moment we won't use any of REST framework's other features,
+
+- we'll
+
+- will 未来系。強い意思がある
+
+- For the moment いまのところは
+
+- Note メモっておいてね
+  Note that
+
+- because なぜなら
+
+- sensible
+  賢明な
+
+- corresponds
+    - 対応する
+    - We'll also need a view which corresponds to an individual snippet,
+
+- worth 価値
+
+- It's
+  - 形式主語
+  - あとで守護
+
+- a couple of いくつかの、何個の
+  It's worth noting that there are a couple of edge cases we're not dealing with properly at the moment.
+
+- deal with 〜に対処していない
+
+- malformed 奇形
+
+- Still それでも
+  - Still, this'll do for now.
+
+- pretty similar
+  - かなり似てる
+
+- beyond
+    - beyond description
+        - 筆舌に尽くしがたい
+
+- improve 改善する、上がる
+
+- particularly 特に 副詞
+  - It's important to remember that ModelSerializer classes don't do anything particularly magical,
+
+- particular 特別な 形容詞
+  - Or we can get a particular snippet by referencing its id:
+
+- 形容詞は、名詞を就職する品詞
+- 副詞は、名詞以外を就職する品詞
