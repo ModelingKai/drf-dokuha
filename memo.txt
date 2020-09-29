@@ -35,6 +35,7 @@ in(m)~ 内側
 
 concise 簡潔 形容詞
 
+
 instead 代わりに
 
 
@@ -78,3 +79,8 @@ such as 〜な感じ、〜のような
  先に抽象的な話があって、その後に具体例として続ける
 
 that それはね
+
+inspect 検査、調べる 虫眼鏡で覗き見る感じ
+
+simply 単に
+ - they are simply a shortcut for creating serializer classes
