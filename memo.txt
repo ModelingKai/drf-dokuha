@@ -37,6 +37,9 @@ YAMLが入ってないことは知らなかった。
 
 accept-languageなど、
 
+コンテントネゴシエーションはどこでネゴっているの？
+
+
 ### 英単語
 
 explicitly 明示的
@@ -227,3 +230,40 @@ We're also using named status codes, [which] [makes] [the response meanings] [mo
     - ìndəvídʒuəl(米国英語)
 
 - familiar おなじみ、くわしくなる
+
+S V O O
+[Using format suffixes] [gives] [us] [URLs]
+[He]
+
+-ly 大体副詞
+
+- refer 言及
+
+- be able to canと同じ、「できる」
+
+[Using format suffixes] [gives] [us] [URLs] that
+                        [explicitly refer] [to a given format],
+                    and
+                        [means] (that) [our API] [will be able to handle] [URLs]
+                                                                            [such as http://example.com/api/items/4.json.]
+
+
+- although だけども
+
+- seems どうやら
+
+- among
+
+- misconception 誤解
+
+- Neither どちらでも
+
+do make 動詞の前にdo、強調の意味
+
+
+[In tutorial part 3],
+        [we'll]     [start] [using class-based views,]
+                and
+                    [see]
+                        how [generic views] [reduce] [the amount of code]
+                                                        _(that) [[we] [need] [to write.]]
