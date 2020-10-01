@@ -213,4 +213,17 @@ The wrappers also provide behaviour such as
 
 - slightly 少し
 
--
+-  little more concise
+
+It's a more concise より簡潔な
+It's a concise 簡潔な
+It's a little more concise ちょっとだけ簡潔な
+
+- , which
+
+We're also using named status codes, [which] [makes] [the response meanings] [more obvious.]
+
+- individual
+    - ìndəvídʒuəl(米国英語)
+
+- familiar おなじみ、くわしくなる
