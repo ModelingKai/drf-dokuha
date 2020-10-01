@@ -23,7 +23,19 @@ users/ の違い。
 Serializerで、Styleを返すのはおかしいような気がしている。
 でもSerialzierは、JSONでもXMLでもHTMLでもいいのでは？？
 
+###
 
+requst.POSTはむしろ使うな。
+
+### パーサー
+
+JSON、Form、MulitiPart、FileUpload
+
+YAMLが入ってないことは知らなかった。
+
+### コンテントネゴシエーション
+
+accept-languageなど、
 
 ### 英単語
 
@@ -146,3 +158,59 @@ how どうやって
 
 - 形容詞は、名詞を就職する品詞
 - 副詞は、名詞以外を就職する品詞
+
+- appropriate 適切な, ふさわしい アポロプリエイト
+
+- arbitrary 任意、
+  -  ˈärbəˌtrerē
+
+- allows
+
+- treat
+  扱う
+  allows you to treat requests with JSON data or other media types in the same way that you would normally deal with form data.
+
+- other than POST,
+POST以外
+
+英語は後から付け足す
+
+- while 〜一方で
+
+- Howerver  しかしながら、けれども
+
+- beneficial 有益
+
+- just that それだけ
+
+- unlike とは異なり
+
+- retain 保つ
+
+- provided 提供された
+
+- until 〜まで
+
+- to 名詞  前置詞
+
+- numeric 数値
+
+- obvious 明らかな
+
+- wrong 違います
+
+- bare 裸、丸出し
+  ber
+
+- so that ~~できるように
+
+どこで and が続くのか。
+
+The wrappers also provide behaviour such as
+                    returning 405 Method Not Allowed responses when appropriate,
+                and
+                    handling any ParseError exceptions that occur when accessing request.data with malformed input.
+
+- slightly 少し
+
+-
