@@ -40,6 +40,13 @@ accept-languageなど、
 コンテントネゴシエーションはどこでネゴっているの？
 
 
+### Mixin使ったときの悩み
+
+postのメソッドの時だけ使わないのに、
+他では使うquerysetがあるのは気持ち悪くないか？ 凝集度的に。
+
+
+
 ### 英単語
 
 explicitly 明示的
@@ -290,3 +297,44 @@ do make 動詞の前にdo、強調の意味
 
 - still まだ、依然として、未だ、やはり
     状態が、事態がまだ動いてない
+
+- allows us
+    だろう
+
+- us to
+
+- compose
+    - まとめる、構成
+
+- One of the big wins of using class-based views is that it allows us to easily compose reusable bits of behaviour.
+
+- so far
+    いままでのところ、従来
+
+- take a moment
+    ちょっとまって
+    瞬間を取る？
+
+- examine 診る
+
+- appropriate 適切な、ふさわしい
+    əpróʊprièɪt
+
+- enough 足りる、十分な
+iˈnəf
+
+- stuff もの、詰め込む、
+stəf
+
+Simple enough stuff so far.
+ここまでは、シンプルで十分です。
+
+
+文構造の対比。似せている
+
+The base class provides the core functionality, and the mixin classes provide the .list() and .create() actions.
+Pretty similar. Again we're using the GenericAPIView class to provide the core functionality, and adding in mixins to provide the .retrieve(), .update() and .destroy() actions.
+
+
+- further さらに
+ˈfərT͟Hər
