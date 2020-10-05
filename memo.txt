@@ -338,3 +338,20 @@ Pretty similar. Again we're using the GenericAPIView class to provide the core f
 
 - further さらに
 ˈfərT͟Hər
+
+- huge 巨大、でかい、広大
+
+- idiomatic 慣用句、慣用な
+    ˌidēəˈmadik
+
+- deal 対処、引き合い、取り扱う
+    dēl
+
+◯カンマの違い
+
+- I thought about Vancouver where I was born and raise
+  - 「私が生まれ育った方のバンクーバー」 → あたかもバンクーバーがいくつかあるかのような印象！(いくつかあるけど、その中でも私の生まれ育った方のバンクーバー的な)
+- I thought about Vancouver, where I was born and raise
+  - 「バンクーバー、そこで私は生まれ育った」→ バンクーバーは1つしかない！ という筆者の思い。
+
+
