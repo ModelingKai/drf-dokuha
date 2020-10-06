@@ -354,4 +354,26 @@ Pretty similar. Again we're using the GenericAPIView class to provide the core f
 - I thought about Vancouver, where I was born and raise
   - 「バンクーバー、そこで私は生まれ育った」→ バンクーバーは1つしかない！ という筆者の思い。
 
+would like to  〜したい
+
+in order to 目的を表す
+to不定詞より硬めの印象
+
+-  always associated
+    いつでも関連付けられた
+
+- may 許可された
+- Only authenticated users may create snippets.
+
+- make a couple of changes
+    - 変更する
+- make a choices
+    - 選択する
+
+- be going to 既定路線。必ずそんな感じになる
+
+- also need まだ必要
+
+- We'd  =  we would
+
 
