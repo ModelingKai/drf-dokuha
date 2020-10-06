@@ -46,6 +46,9 @@ postのメソッドの時だけ使わないのに、
 他では使うquerysetがあるのは気持ち悪くないか？ 凝集度的に。
 
 
+### untyped ReadOnlyObjectの意味が・・・
+
+なぜuntypedなのかがわからん。
 
 ### 英単語
 
@@ -403,3 +406,5 @@ contrast コントラスト、対比、対象
   比べる
 
 could  canの過去形
+
+fine-grained きめ細かい
