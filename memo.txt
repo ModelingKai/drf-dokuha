@@ -50,6 +50,15 @@ postのメソッドの時だけ使わないのに、
 
 なぜuntypedなのかがわからん。
 
+
+### ハイパーリンクとRestfulの関係性
+
+Notice that we're using hyperlinked relations in this case with HyperlinkedModelSerializer. You can also use primary key and various other relationships, but hyperlinking is good RESTful design.
+
+これ、どうしてrestfulなんだ。
+
+
+
 ### 英単語
 
 explicitly 明示的
@@ -360,7 +369,9 @@ Pretty similar. Again we're using the GenericAPIView class to provide the core f
 would like to  〜したい
 
 in order to 目的を表す
-to不定詞より硬めの印象
+so as to
+to不定詞より硬めの印象。しっかりめに使う
+- Factbook P.173
 
 -  always associated
     いつでも関連付けられた
@@ -408,3 +419,83 @@ contrast コントラスト、対比、対象
 could  canの過去形
 
 fine-grained きめ細かい
+
+wh節は、疑問の意味ではない。
+    I don't know where she lives.
+        語順がひっくり返らない。
+
+能動態、受動態
+
+a number of : いくつかの？
+
+
+restrict 制限する
+    禁止マーク
+
+REST framework includes a number of permission classes that we can use (it) to restrict who can access a given view.
+
+the one 前の文での目的語
+this one
+Factbook P.406
+
+In this case the one we're looking for is IsAuthenticatedOrReadOnly,
+→ this is a penみたいな。
+
+ensure 確認する
+en- ＝ 〜にする
+
+If you open a browser and navigate to the browsable API at the moment, you'll find that you're no longer able to create new code snippets.
+ In order to do so we'd need to be able to login as a user.
+
+ここの、to do soは、create new code snippetsに掛かっていそう。
+
+can be 可能性を表す
+
+whatever なんでも 形容詞
+
+earlier ついさっき、 early の副詞
+
+once ひとたび起こったらそれからは、
+
+but also だけではなく、追加表現
+
+
+Really we'd like all code snippets to be visible to anyone, but also make sure that only the user that created a code snippet is able to update or delete it.
+To do that we're going to need to create a custom permission.
+このthatは前の文に掛かっている
+
+
+An HTTP method is safe if it doesn't alter the state of the server. In other words, a method is safe if it leads to a read-only operation. Several common HTTP methods are safe: GET, HEAD, or OPTIONS. All safe methods are also idempotent, but not all idempotent methods are safe. For example, PUT and DELETE are both idempotent but unsafe.
+https://developer.mozilla.org/en-US/docs/Glossary/safe#:~:text=An%20HTTP%20method%20is%20safe,all%20idempotent%20methods%20are%20safe.
+
+
+Now we can add that custom permission to our snippet instance endpoint, by editing the permission_classes property on the SnippetDetail view class:
+ここでのthatは指示表現
+- Factbook P.390
+
+数えられるかどうかが重要
+custom permission
+→ custom permissions
+→ a custom permission
+→ the custom permission
+冠詞が必要。
+
+不可算名詞
+
+if のあとに、だいたい willがつく。
+you find は、現在形。
+
+interact 相互作用する
+
+tutorial  ː 伸ばし棒
+t(j)uːtˈɔːriəl
+
+cohesion 凝集
+    - 同じものがくっつく
+adhesion 癒着
+    - 必ずしも同じものではない
+decoupling
+    - 疎結合
+
+idempotent,
+冪等性

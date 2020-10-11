@@ -18,3 +18,7 @@ from django.urls import path, include
 urlpatterns = [
     path('', include('snippets.urls')),
 ]
+
+urlpatterns += [
+    path('hoge/', include('rest_framework.urls')),
+]
