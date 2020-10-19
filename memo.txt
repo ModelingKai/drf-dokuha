@@ -535,3 +535,18 @@ Unlike all our other API endpoints, 今までの私達が作ったAPIとは違�
 not A, but B  Aではなく、B
 
 As usual 通常は
+
+aspects 側面、局面、様相
+
+may
+might かもしれない may の弱め
+
+across 横切って、横断して
+
+In this case we'd like to use a hyperlinked style between entities. In order to do so,
+
+to do so 言い換え そうするために
+
+has 三単現
+
+any どんな
