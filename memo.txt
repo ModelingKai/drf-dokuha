@@ -519,3 +519,19 @@ fully qualified 完全修飾
 Two things should be noticed here.
 2つの事柄に注意を向けるべき
 ここで注目すべきことが2つある。
+
+pastebin API ←これなんだ。
+↓ これっぽい。
+https://ja.wikipedia.org/wiki/Pastebin#:~:text=Pastebin%EF%BC%88%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%B3%EF%BC%89%E3%81%A8%E3%81%AF,%E9%96%B2%E8%A6%A7%E3%81%95%E3%81%9B%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%80%82
+
+[The other obvious thing that's still missing from our pastebin API] is the code highlighting endpoints.
+
+Unlike all our other API endpoints, 今までの私達が作ったAPIとは違って、異なって
+
+ pre-rendered ← preレンダーってなに？
+
+[The other thing we need to consider when creating the code highlight view] is that there's no existing concrete generic view that we can use.
+
+not A, but B  Aではなく、B
+
+As usual 通常は
