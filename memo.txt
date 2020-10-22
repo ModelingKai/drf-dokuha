@@ -449,6 +449,8 @@ If you open a browser and navigate to the browsable API at the moment, you'll fi
 
 ここの、to do soは、create new code snippetsに掛かっていそう。
 
+no longer もはや〜ない
+
 can be 可能性を表す
 
 whatever なんでも 形容詞
