@@ -573,3 +573,16 @@ bound bindの過去形・過去分詞
 [A ViewSet class] [is] only [bound]
 
 at the last moment, ある最後の瞬間 ってなに？ ← この感覚は正しい
+
+構造より単語の意味に生きがち
+
+To see what's going on under the hood let's first explicitly create a set of views from our ViewSets.
+under the hood ボンネットの中
+何かを精密に調べる的な
+
+[To see what's going] on under the hood [let's] first explicitly [create] a set of views from our ViewSets.
+何が起こっているのかを見るために、
+
+concrete  具体的な
+
+, by binding 分詞構文
