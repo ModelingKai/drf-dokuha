@@ -20,5 +20,5 @@ urlpatterns = [
 ]
 
 urlpatterns += [
-    path('hoge/', include('rest_framework.urls')),
+    path('auth/', include('rest_framework.urls')),
 ]
