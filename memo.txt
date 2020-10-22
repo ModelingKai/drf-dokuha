@@ -555,3 +555,19 @@ find ~~であることがわかること
 
 If we open a browser and navigate to the browsable API, you'll find that you can now work your way around the API simply by following links.
 ブラウザを開いてブラウジング可能なAPIにナビゲートすると、リンクをたどるだけでAPIを使いこなせるようになりました。
+
+take you 連れて行くよ
+
+the developer 名詞にtheがつくと、〜〜する人
+一般的な開発する人
+
+the rich 富裕層、金持ち
+
+leave ~~残す leave難しい
+REST framework includes an abstraction for dealing with ViewSets, that allows the developer to concentrate on modeling the state and interactions of the API, and leave the URL construction to be handled automatically, based on common conventions.
+
+bound bindの過去形・過去分詞
+
+[A ViewSet class] [is] only [bound]
+
+at the last moment, ある最後の瞬間 ってなに？ ← この感覚は正しい
